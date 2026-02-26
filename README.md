@@ -197,6 +197,15 @@ Looking for environments requiring ownership, architecture thinking, and product
 
 ---
 
+## GitHub Metrics
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shubhamavantkar&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamavantkar&layout=compact" />
+</p>
+
+---
+
 ## Engineering Philosophy
 
 Build systems that work in the real world.  
