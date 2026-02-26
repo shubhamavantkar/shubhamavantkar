@@ -44,6 +44,14 @@ My strength is ownership — architecture, backend, deployment, and long-term ma
 
 ---
 
+## GitHub Metrics
+
+<p align="left">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamavantkar&theme=github" />
+</p>
+
+---
+
 ## Core Engineering Domains
 
 ### Backend Systems
@@ -195,14 +203,7 @@ Looking for environments requiring ownership, architecture thinking, and product
 - GitHub: https://github.com/shubhamavantkar
 
 
----
 
-## GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubhamavantkar&show_icons=true&include_all_commits=true&count_private=true" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamavantkar&theme=github" />
-</p>
 
 ---
 
